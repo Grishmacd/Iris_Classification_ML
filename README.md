@@ -122,14 +122,14 @@ Used in code:
 
 ---
 
-Output
+## Output
 
--Pairplot and correlation heatmap for EDA
--Printed model results:
--Confusion Matrix
--Classification Report
--Accuracy Score
-
+- Pairplot and correlation heatmap for EDA
+- Printed model results:
+  - Confusion Matrix
+  - Classification Report
+  - Accuracy Score
+  
 ---
 
 ## Developer
